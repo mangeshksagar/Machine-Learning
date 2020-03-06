@@ -14,7 +14,7 @@ How it works: In this algorithm, we do not have any target or outcome variable t
 How it works: Using this algorithm, the machine is trained to make specific decisions. It works this way: the machine is exposed to an environment where it trains itself continually using trial and error. This machine learns from past experience and tries to capture the best possible knowledge to make accurate business decisions. Example of Reinforcement Learning: Markov Decision Process
 
 
-## List of Common Machine Learning Algorithms
+# List of Common Machine Learning Algorithms
 Here is the list of commonly used machine learning algorithms. These algorithms can be applied to almost any data problem:
 
     * Linear Regression
