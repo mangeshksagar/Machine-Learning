@@ -17,17 +17,17 @@ How it works: Using this algorithm, the machine is trained to make specific deci
 # List of Common Machine Learning Algorithms
 Here is the list of commonly used machine learning algorithms. These algorithms can be applied to almost any data problem:
 
-    * Linear Regression
-    * Logistic Regression
-    * Decision Tree
-    * SVM
-    * Naive Bayes
-    * kNN
-    * K-Means
-    * Random Forest
-    * Dimensionality Reduction Algorithms
-    * Gradient Boosting algorithms
-        * GBM
-        * XGBoost
-        * LightGBM
-        * CatBoost
+   * Linear Regression
+   * Logistic Regression
+   * Decision Tree
+   * SVM
+   * Naive Bayes
+   * kNN
+   * K-Means
+   * Random Forest
+   * Dimensionality Reduction Algorithms
+   * Gradient Boosting algorithms
+       * GBM
+       * XGBoost
+       * LightGBM
+       * CatBoost
